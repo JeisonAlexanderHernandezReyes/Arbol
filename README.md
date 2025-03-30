@@ -140,10 +140,6 @@ La aplicación utiliza un algoritmo recursivo para verificar si una palabra pert
 - El analizador está optimizado para gramáticas regulares y libres de contexto simples
 - Para gramáticas más complejas, la profundidad de derivación está limitada para prevenir problemas de rendimiento
 
-## Autor
-
-[Tu Nombre]
-
 ## Licencia
 
-Este proyecto es parte de un trabajo académico y está sujeto a los términos especificados por [Tu Institución Educativa].
+Este proyecto es parte de un trabajo académico y está sujeto a los términos especificados del autor.
